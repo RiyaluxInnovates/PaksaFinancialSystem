@@ -1,6 +1,6 @@
 # Security enhancements
 slowapi==0.1.9
-python-multipart==0.0.6
+python-multipart==0.0.22
 cryptography==41.0.7
 bcrypt==4.1.2
 passlib[bcrypt]==1.7.4
